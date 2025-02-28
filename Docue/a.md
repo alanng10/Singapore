@@ -16,20 +16,22 @@ The word seventh letter "o" refers to any resulted park.
 
 Cenhano is any resulted park of any unit of Cenha.
 
-Cenhano has park worth.
+Cenhano has park worth. 
 
-Cenhano has park value.
+Cenhano has park value. 
 
-Cenhano has park benefit.
+Cenhano has park benefit. 
 
-Cenhano has park marry.
+Cenhano has park marry. 
 
-Cenhano has park arch.
+Cenhano has park land. 
 
-Cenhano has park arch worth.
+Cenhano has park arch. 
 
-Cenhano has park kind.
+Cenhano has park arch worth. 
 
-Cenhano has park kind arch.
+Cenhano has park kind. 
 
-Cenhano has park kind arch worth.
+Cenhano has park kind arch. 
+
+Cenhano has park kind arch worth. 
