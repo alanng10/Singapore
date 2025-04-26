@@ -45,3 +45,5 @@ Cenhano has park kind land.
 Cenhano has park kind arch.
 
 Cenhano has park kind arch worth.
+
+Cenhano has major.
