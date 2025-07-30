@@ -51,3 +51,9 @@ Cenhano has park mark.
 Cenhano has park cross.
 
 Cenhano has major.
+
+Cenhano has major on result.
+
+Cenhano has major on park.
+
+Cenhano has major on any.
